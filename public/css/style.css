@@ -1,0 +1,21 @@
+.container{
+ position: relative;
+ margin: 0 auto;
+}
+.form {
+ position: absolute;
+ top: 50%;
+ left: 50%;
+ transform: translate(-50%,-50%);
+}
+   
+#dashboard-side{
+    background: #F2F2F2;
+    min-height: 500px;
+    
+}
+
+#dashboard-main{
+     background: #F2F2F2;
+     min-height: 500px;
+}
